@@ -1,0 +1,14 @@
+#Personal Desktop Jarvis
+
+pip install pyttsx3
+pip install PyAudio
+pip install SpeechRecognition
+pip install pywhatkit
+pip install DateTime
+pip install wikipedia
+pip install pyjokes
+pip install geocoder
+pip install PyAutoGUI
+pip install turtle
+pip install pygame
+pip install pygame_camera
